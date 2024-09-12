@@ -2,6 +2,17 @@
 
 All notable changes to the Garnet Framework will be documented in this file. 
 
+## [1.3.3] - 2024-09-12 
+
+This new version fixes some bugs, introduces new features and potential breaking changes. 
+
+- Update version of Context Broker to [5.0.20](https://github.com/awslabs/garnet-framework/blob/main/constants.ts)
+
+## [1.3.2] - 2024-08-13
+
+This new version fixes a bug we had in the Scorpio Broker due to splitting messages for SQS size limit.
+
+- Update version of Context Broker to [4.1.152](https://github.com/awslabs/garnet-framework/blob/main/constants.ts)
 
 ## [1.3.0] - 2024-05-07 
 
